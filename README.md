@@ -1,4 +1,4 @@
-# cursor-skills-library
+﻿# cursor-skills-library
 
 Личная библиотека **Cursor Agent Skills** из проектов Dente22.  
 Сюда складываем скилы, пополняем и ставим в другие репозитории / на другие машины.
@@ -15,6 +15,7 @@
 ### Источники
 
 - **MDM** (`C:\MDM\.cursor\skills`) — code-mentor, design, brand, slides, …
+- **one-phase-focus** — из «День Х» (одна фаза до конца)
 - **challenge-me** — https://github.com/Dente22/challenge-me
 - **Spokes** — https://github.com/Dente22/Spokes (`skill/SKILL.md`)
 - **CoreX-AI-code-free** — https://github.com/Dente22/CoreX-AI-code-free (`core_x_skills/`)
@@ -53,3 +54,4 @@ xcopy /E /I /Y skills\code-mentor путь\к\проекту\.cursor\skills\code
 
 - Встроенные скилы Cursor (`~/.cursor/skills-cursor/*`) — это продукт Cursor, не наш бэклог.
 - Секреты, `.env`, ключи API.
+
