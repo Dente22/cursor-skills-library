@@ -62,3 +62,5 @@ description: >-
 ## Происхождение
 
 Обобщение правила проекта «День Х» (`.cursor/rules/den-x-focus.mdc` + `game/FOCUS.md`): не сворачивать, пока не доделаем одну часть.
+
+Источник: https://github.com/Dente22/cursor-skills-library (`skills/one-phase-focus/`)
